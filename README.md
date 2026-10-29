@@ -135,3 +135,5 @@ Refer to \[`git-commands.md`](git-commands.md) for the commands used, their purp
 
 This repository documents the assigned programming exercises and demonstrates the use of Git and GitHub for version control, collaboration, and source code management.
 
+This repository contains three example programming exercises for practicing Git and GitHub workflows.
+
