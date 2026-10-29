@@ -20,15 +20,11 @@ This assignment demonstrates the use of Git and GitHub for source code managemen
 
 
 
-\## Completed Exercises
+## Completed Exercises
 
-
-
-\- Exercise 01: \Exercise 1
-
-\- Exercise 02: \Exercise 2
-
-\- Exercise 03: \Exercise 3
+- Exercise 01: Addition of Two Numbers
+- Exercise 02: Even or Odd
+- Exercise 03: Largest of Two Numbers
 
 
 
@@ -107,8 +103,7 @@ The expected results are documented in each exercise's `output.txt` file.
 
 \### Pull Requests
 
-
-https://github.com/bt25cse198-star/git-practice-rollnumber/pulls
+Documentation Update: https://github.com/bt25cse198-star/git-practice-rollnumber/pull/5
 
 
 
@@ -116,11 +111,9 @@ Replace the placeholders with the actual GitHub issue and pull request URLs afte
 
 
 
-\## Git Practice Record
+## Git Practice Record
 
-
-
-Refer to \[`git-commands.md`](git-commands.md) for the commands used, their purposes, and details of any merge conflict encountered.
+Refer to [`git-commands.md`](git-commands.md) for the commands used, their purposes, and details of any merge conflict encountered.
 
 
 
