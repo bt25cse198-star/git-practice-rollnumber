@@ -24,11 +24,11 @@ This assignment demonstrates the use of Git and GitHub for source code managemen
 
 
 
-\- Exercise 01: \[Enter exercise title]
+\- Exercise 01: \Exercise 1
 
-\- Exercise 02: \[Enter exercise title]
+\- Exercise 02: \Exercise 2
 
-\- Exercise 03: \[Enter exercise title]
+\- Exercise 03: \Exercise 3
 
 
 
@@ -108,12 +108,7 @@ The expected results are documented in each exercise's `output.txt` file.
 \### Pull Requests
 
 
-
-\- Exercise 01: \[Add pull request link here]
-
-\- Exercise 02: \[Add pull request link here]
-
-\- Exercise 03: \[Add pull request link here]
+https://github.com/bt25cse198-star/git-practice-rollnumber/pulls
 
 
 
