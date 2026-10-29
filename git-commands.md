@@ -40,6 +40,10 @@ This document lists the Git commands used during the assignment and explains the
 
 | `git merge feature/exercise-01` | Merges the specified branch into the current branch. |
 
+| `git switch -c feature/update-documentation` | Creates and switches to the documentation feature branch. |
+| `git push -u origin feature/update-documentation` | Pushes the feature branch to GitHub and sets its upstream. |
+| `git switch main` | Switches back to the main branch. |
+
 
 
 \## Commit History
@@ -91,12 +95,9 @@ If a conflict occurs:
 7\. Verify the result using `git status` and `git log --oneline`.
 
 
+**Conflict encountered:** No content merge conflict was encountered while creating Pull Request #5. GitHub confirmed that the feature branch could be merged into the main branch without conflicts.
 
-\*\*Conflict encountered:\*\* \[Describe the actual conflict here.]
-
-
-
-\*\*Resolution:\*\* \[Explain how the conflicting changes were combined or selected.]
+**Resolution:** No conflict resolution was required for this pull request. The documentation changes were reviewed and merged into the main branch through GitHub.
 
 
 
