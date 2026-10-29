@@ -98,11 +98,10 @@ The expected results are documented in each exercise's `output.txt` file.
 
 
 
-\- Exercise 01: \[Add issue link here]
+\- Exercise 01: https://github.com/bt25cse198-star/git-practice-rollnumber/issues/1
+\- Exercise 02: https://github.com/bt25cse198-star/git-practice-rollnumber/issues/2
 
-\- Exercise 02: \[Add issue link here]
-
-\- Exercise 03: \[Add issue link here]
+\- Exercise 03: https://github.com/bt25cse198-star/git-practice-rollnumber/issues/3
 
 
 
